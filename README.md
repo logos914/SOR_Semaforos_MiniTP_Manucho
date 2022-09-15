@@ -12,12 +12,12 @@ Los mozos no deben servir más de N+1 platos. Cualquier comensal incluido nuestr
 Como es de esperarse en un asado, habrá vino así que los ánimos sobre cuestiones de futbol se exacerban y Manucho se enoja muchísimo por la respuesta un invitado/a se levanta y abandona el quincho. Si Manucho ya se ha levantado, los invitados pueden hacer lo mismo, pero solo si ya han terminado de comer.
 
 **Las primitivas disponibles son:**
-Sentarse()
-Servircomida()
-Enojarse()
-Levantarse()
-Lanzar_pregunta_mundialista()
-Lanzar_respuesta_mundialista()
+- Sentarse()
+- Servircomida()
+- Enojarse()
+- Levantarse()
+- Lanzar_pregunta_mundialista()
+- Lanzar_respuesta_mundialista()
 
 **Compilar:**
 ```
