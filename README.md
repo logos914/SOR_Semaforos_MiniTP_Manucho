@@ -1,6 +1,8 @@
 # SOR_Semaforos_MiniTP_Manucho
 Posible solucion al Mini TP de Sistemas Operativos y Redes, sincronización de procesos, semáforos.
 
+https://www.youtube.com/watch?v=cFuZO4Dt71Q
+
 **Enunciado:**
 
 Manucho que cursó en el primer cuatrimestre la materia Sistemas Operativos y Redes, decide hacer un gran asado en su casa para festejar que promocionó la materia. Como además Manucho hace poco ganó el Quini 6 no escatima en gastos y decide contratar un servicio de catering. El servicio consiste de 1 asador y M mozos.
